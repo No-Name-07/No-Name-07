@@ -10,17 +10,11 @@
 
 
 
+![github stats](https://github-readme-stats.vercel.app/api?username=No-Name-07&show_icons=true&theme=dark)
+<a href="https://github.com/No-Name-07/webdav"><img title="webdav" src="https://github-readme-stats.vercel.app/api/pin/?username =No-Name-07&repo=webdav&theme=vision-friendly-dark"></a>
+<a href="https://github.com/No-Name-07/noname07x"><img title="noname07" src="https://github-readme-stats.vercel.app/api/pin/?username =No-Name-07&repo=noname07&theme=vision-friendly-dark"></a>
+<a href="https://github.com/No-Name-07/No-Name-07"><img title="NO-NAME-07" src="https://github-readme-stats.vercel.app/api/pin/?username =Yayan-XD&repo=Cr4ck&theme=vision-friendly-dark"></a>
 
-
-
-
-
-
-
-
-
-
-<iframe src="https://www.youtube.com/embed/n92vBmomSNY"></iframe>
 
 
 
@@ -31,3 +25,30 @@
 
 
 <audio autoplay="1" loop="1" controls="1" src="https://nathanprinsley-files.prinsh.com/data-1/mp3/everything-i-need_skylar-grey.mp3" type="audio/mpeg"></audio>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
